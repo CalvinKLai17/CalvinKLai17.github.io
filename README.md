@@ -1,2 +1,2 @@
-# Dovsaspa.github.io
+# Stub
 Pokemon Higher Or Lower
